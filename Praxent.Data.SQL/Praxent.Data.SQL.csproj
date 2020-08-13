@@ -2,11 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <PackageId>Praxent.Data</PackageId>
+    <PackageId>Praxent.Data.SQL</PackageId>
     <Version>1.0.0</Version>
     <Authors>John Brunnings</Authors>
     <Company>Praxent, LLC</Company>
-    <RepositoryUrl>https://github.com/praxent/dotnetcore-praxent-data</RepositoryUrl>
+    <RepositoryUrl>https://github.com/praxent/dotnetcore-praxent-data-sql</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
